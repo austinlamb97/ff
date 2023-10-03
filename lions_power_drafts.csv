@@ -1,0 +1,641 @@
+pick,Owner,posiiton,player,team name,year
+1,Tin,RB,Saquon Barkley,New York Giants,2019
+56,Luke,TE,Evan Engram,New York Giants,2019
+70,Al,WR,Sterling Shepard,New York Giants,2019
+100,Tin,WR,Golden Tate,New York Giants,2019
+2,Mark,RB,Alvin Kamara,New Orleans Saints,2019
+10,Al,WR,Michael Thomas,New Orleans Saints,2019
+54,Pickle,TE,Jared Cook,New Orleans Saints,2019
+86,Vinny,RB,Latavius Murray,New Orleans Saints,2019
+115,Vinny,QB,Drew Brees,New Orleans Saints,2019
+155,Vinny,K,Wil Lutz,New Orleans Saints,2019
+3,Steve,WR,DeAndre Hopkins,Houston Texans,2019
+53,PaulF,RB,Duke Johnson,Houston Texans,2019
+55,Vinny,WR,Will Fuller V,Houston Texans,2019
+89,Josh,QB,Deshaun Watson,Houston Texans,2019
+92,Josh,WR,Keke Coutee,Houston Texans,2019
+140,Tin,WR,Kenny Stills,Houston Texans,2019
+156,Luke,D/ST,Texans D/ST,Houston Texans,2019
+159,Mark,K,Ka'imi Fairbairn,Houston Texans,2019
+4,Dan,RB,Christian McCaffrey,Carolina Panthers,2019
+62,Mark,WR,DJ Moore,Carolina Panthers,2019
+98,Steve,QB,Cam Newton,Carolina Panthers,2019
+123,Steve,WR,Curtis Samuel,Carolina Panthers,2019
+5,Luke,RB,Le'Veon Bell,New York Jets,2019
+87,Pickle,WR,Robby Anderson,New York Jets,2019
+138,Steve,WR,Jamison Crowder,New York Jets,2019
+6,Vinny,WR,Davante Adams,Green Bay Packers,2019
+36,Luke,RB,Aaron Jones,Green Bay Packers,2019
+78,Steve,QB,Aaron Rodgers,Green Bay Packers,2019
+112,Josh,WR,Marquez Valdes-Scantling,Green Bay Packers,2019
+118,Steve,WR,Geronimo Allison,Green Bay Packers,2019
+167,Pickle,K,Mason Crosby,Green Bay Packers,2019
+7,Pickle,RB,David Johnson,Arizona Cardinals,2019
+79,Mark,WR,Christian Kirk,Arizona Cardinals,2019
+82,Mark,RB,Kenyan Drake,Arizona Cardinals,2019
+95,Vinny,WR,Larry Fitzgerald,Arizona Cardinals,2019
+106,Vinny,QB,Kyler Murray,Arizona Cardinals,2019
+8,PaulF,WR,JuJu Smith-Schuster,Pittsburgh Steelers,2019
+15,Vinny,RB,James Conner,Pittsburgh Steelers,2019
+71,Al,TE,Vance McDonald,Pittsburgh Steelers,2019
+91,Al,WR,James Washington,Pittsburgh Steelers,2019
+110,Al,QB,Ben Roethlisberger,Pittsburgh Steelers,2019
+9,Josh,RB,Ezekiel Elliott,Dallas Cowboys,2019
+35,Vinny,WR,Amari Cooper,Dallas Cowboys,2019
+74,Pickle,RB,Tony Pollard,Dallas Cowboys,2019
+129,Josh,WR,Michael Gallup,Dallas Cowboys,2019
+132,Josh,QB,Dak Prescott,Dallas Cowboys,2019
+11,Al,WR,Tyreek Hill,Kansas City Chiefs,2019
+13,PaulF,TE,Travis Kelce,Kansas City Chiefs,2019
+32,Josh,RB,Damien Williams,Kansas City Chiefs,2019
+41,Tin,QB,Patrick Mahomes,Kansas City Chiefs,2019
+57,Dan,WR,Sammy Watkins,Kansas City Chiefs,2019
+90,Al,RB,LeSean McCoy,Kansas City Chiefs,2019
+102,Mark,RB,Darwin Thompson,Kansas City Chiefs,2019
+165,Luke,K,Harrison Butker,Kansas City Chiefs,2019
+12,Josh,WR,Julio Jones,Atlanta Falcons,2019
+23,Steve,RB,Devonta Freeman,Atlanta Falcons,2019
+59,Mark,WR,Calvin Ridley,Atlanta Falcons,2019
+65,Luke,QB,Matt Ryan,Atlanta Falcons,2019
+135,Vinny,TE,Austin Hooper,Atlanta Falcons,2019
+14,Pickle,RB,Todd Gurley II,Los Angeles Rams,2019
+33,PaulF,WR,Brandin Cooks,Los Angeles Rams,2019
+37,Dan,WR,Robert Woods,Los Angeles Rams,2019
+58,Steve,WR,Cooper Kupp,Los Angeles Rams,2019
+68,PaulF,RB,Darrell Henderson Jr.,Los Angeles Rams,2019
+108,PaulF,QB,Jared Goff,Los Angeles Rams,2019
+149,Josh,D/ST,Rams D/ST,Los Angeles Rams,2019
+157,Dan,K,Greg Zuerlein,Los Angeles Rams,2019
+16,Luke,WR,Odell Beckham Jr.,Cleveland Browns,2019
+20,Tin,RB,Nick Chubb,Cleveland Browns,2019
+47,Pickle,QB,Baker Mayfield,Cleveland Browns,2019
+88,PaulF,WR,Jarvis Landry,Cleveland Browns,2019
+120,Tin,RB,Kareem Hunt,Cleveland Browns,2019
+130,Al,TE,David Njoku,Cleveland Browns,2019
+154,Pickle,D/ST,Browns D/ST,Cleveland Browns,2019
+17,Dan,RB,Dalvin Cook,Minnesota Vikings,2019
+27,Pickle,WR,Adam Thielen,Minnesota Vikings,2019
+40,Tin,WR,Stefon Diggs,Minnesota Vikings,2019
+137,Dan,TE,Kyle Rudolph,Minnesota Vikings,2019
+153,PaulF,D/ST,Vikings D/ST,Minnesota Vikings,2019
+18,Steve,WR,Mike Evans,Tampa Bay Buccaneers,2019
+52,Josh,WR,Chris Godwin,Tampa Bay Buccaneers,2019
+83,Steve,TE,O.J. Howard,Tampa Bay Buccaneers,2019
+85,Luke,RB,Peyton Barber,Tampa Bay Buccaneers,2019
+113,PaulF,RB,Ronald Jones II,Tampa Bay Buccaneers,2019
+19,Mark,WR,Antonio Brown, FA,2019
+21,Tin,RB,Kerryon Johnson,Detroit Lions,2019
+31,Al,WR,Kenny Golladay,Detroit Lions,2019
+84,Dan,TE,T.J. Hockenson,Detroit Lions,2019
+97,Dan,WR,Marvin Jones Jr.,Detroit Lions,2019
+128,PaulF,WR,Danny Amendola,Detroit Lions,2019
+139,Mark,QB,Matthew Stafford,Detroit Lions,2019
+160,Tin,K,Matt Prater,Detroit Lions,2019
+161,Tin,D/ST,Lions D/ST,Detroit Lions,2019
+22,Mark,RB,Leonard Fournette,Jacksonville Jaguars,2019
+73,PaulF,WR,Dede Westbrook,Jacksonville Jaguars,2019
+131,Al,D/ST,Jaguars D/ST,Jacksonville Jaguars,2019
+24,Dan,WR,Keenan Allen,Los Angeles Chargers,2019
+30,Al,RB,Melvin Gordon,Los Angeles Chargers,2019
+48,PaulF,RB,Austin Ekeler,Los Angeles Chargers,2019
+67,Pickle,WR,Mike Williams,Los Angeles Chargers,2019
+80,Tin,TE,Hunter Henry,Los Angeles Chargers,2019
+124,Dan,QB,Philip Rivers,Los Angeles Chargers,2019
+168,PaulF,K,Michael Badgley,Los Angeles Chargers,2019
+25,Luke,RB,Joe Mixon,Cincinnati Bengals,2019
+45,Luke,WR,Tyler Boyd,Cincinnati Bengals,2019
+60,Tin,WR,A.J. Green,Cincinnati Bengals,2019
+117,Dan,RB,Giovani Bernard,Cincinnati Bengals,2019
+26,Vinny,RB,Josh Jacobs,Oakland Raiders,2019
+114,Pickle,RB,Jalen Richard,Oakland Raiders,2019
+151,Al,WR,Tyrell Williams,Oakland Raiders,2019
+28,PaulF,RB,Chris Carson,Seattle Seahawks,2019
+39,Mark,WR,Tyler Lockett,Seattle Seahawks,2019
+66,Vinny,WR,Josh Gordon,Seattle Seahawks,2019
+77,Dan,RB,Rashaad Penny,Seattle Seahawks,2019
+104,Dan,QB,Russell Wilson,Seattle Seahawks,2019
+134,Pickle,WR,DK Metcalf,Seattle Seahawks,2019
+29,Josh,WR,Julian Edelman,New England Patriots,2019
+50,Al,RB,James White,New England Patriots,2019
+63,Steve,RB,Sony Michel,New England Patriots,2019
+145,Luke,WR,N'Keal Harry,New England Patriots,2019
+158,Steve,K,Stephen Gostkowski,New England Patriots,2019
+163,Steve,WR,Mohamed Sanu Sr.,New England Patriots,2019
+164,Dan,D/ST,Patriots D/ST,New England Patriots,2019
+34,Pickle,RB,Marlon Mack,Indianapolis Colts,2019
+64,Dan,WR,T.Y. Hilton,Indianapolis Colts,2019
+121,Tin,TE,Eric Ebron,Indianapolis Colts,2019
+141,Tin,RB,Nyheim Hines,Indianapolis Colts,2019
+147,Pickle,WR,Devin Funchess,Indianapolis Colts,2019
+38,Steve,RB,Mark Ingram II,Baltimore Ravens,2019
+105,Luke,QB,Lamar Jackson,Baltimore Ravens,2019
+119,Mark,TE,Mark Andrews,Baltimore Ravens,2019
+125,Luke,WR,Marquise Brown,Baltimore Ravens,2019
+146,Vinny,WR,Miles Boykin,Baltimore Ravens,2019
+148,PaulF,RB,Justice Hill,Baltimore Ravens,2019
+150,Al,K,Justin Tucker,Baltimore Ravens,2019
+162,Mark,D/ST,Ravens D/ST,Baltimore Ravens,2019
+42,Mark,RB,David Montgomery,Chicago Bears,2019
+69,Josh,RB,Tarik Cohen,Chicago Bears,2019
+81,Tin,WR,Allen Robinson II,Chicago Bears,2019
+103,Steve,D/ST,Bears D/ST,Chicago Bears,2019
+111,Al,QB,Mitchell Trubisky,Chicago Bears,2019
+122,Mark,WR,Anthony Miller,Chicago Bears,2019
+43,Steve,RB,Derrick Henry,Tennessee Titans,2019
+99,Mark,WR,Corey Davis,Tennessee Titans,2019
+116,Luke,TE,Delanie Walker,Tennessee Titans,2019
+136,Luke,WR,A.J. Brown,Tennessee Titans,2019
+143,Steve,RB,Dion Lewis,Tennessee Titans,2019
+44,Dan,RB,Derrius Guice,Washington ,2019
+144,Dan,RB,Chris Thompson,Washington ,2019
+46,Vinny,TE,Zach Ertz,Philadelphia Eagles,2019
+61,Tin,WR,Alshon Jeffery,Philadelphia Eagles,2019
+72,Josh,RB,Miles Sanders,Philadelphia Eagles,2019
+93,PaulF,QB,Carson Wentz,Philadelphia Eagles,2019
+94,Pickle,RB,Jordan Howard,Philadelphia Eagles,2019
+101,Tin,WR,DeSean Jackson,Philadelphia Eagles,2019
+49,Josh,TE,George Kittle,San Francisco 49ers,2019
+75,Vinny,RB,Tevin Coleman,San Francisco 49ers,2019
+76,Luke,WR,Emmanuel Sanders,San Francisco 49ers,2019
+96,Luke,RB,Matt Breida,San Francisco 49ers,2019
+109,Josh,WR,Dante Pettis,San Francisco 49ers,2019
+127,Pickle,QB,Jimmy Garoppolo,San Francisco 49ers,2019
+169,Josh,K,Robbie Gould,San Francisco 49ers,2019
+170,Al,RB,Jerick McKinnon,San Francisco 49ers,2019
+51,Al,RB,Phillip Lindsay,Denver Broncos,2019
+107,Pickle,WR,Courtland Sutton,Denver Broncos,2019
+126,Vinny,RB,Royce Freeman,Denver Broncos,2019
+166,Vinny,D/ST,Broncos D/ST,Denver Broncos,2019
+133,PaulF,RB,Devin Singletary,Buffalo Bills,2019
+142,Mark,QB,Josh Allen,Buffalo Bills,2019
+152,Josh,WR,Albert Wilson,Miami Dolphins,2019
+1,Pickle,RB,Christian McCaffrey,Carolina Panthers,2020
+33,Dan,WR,DJ Moore,Carolina Panthers,2020
+122,Vinny,WR,Robby Anderson,Carolina Panthers,2020
+167,Al,WR,Curtis Samuel,Carolina Panthers,2020
+2,Vinny,RB,Saquon Barkley,New York Giants,2020
+80,Pickle,TE,Evan Engram,New York Giants,2020
+82,Vinny,WR,Sterling Shepard,New York Giants,2020
+105,Tin,WR,Darius Slayton,New York Giants,2020
+130,Josh,QB,Daniel Jones,New York Giants,2020
+3,PaulF,RB,Ezekiel Elliott,Dallas Cowboys,2020
+27,Al,WR,Amari Cooper,Dallas Cowboys,2020
+70,Josh,QB,Dak Prescott,Dallas Cowboys,2020
+71,Josh,WR,Michael Gallup,Dallas Cowboys,2020
+100,Pickle,WR,CeeDee Lamb,Dallas Cowboys,2020
+123,PaulF,RB,Tony Pollard,Dallas Cowboys,2020
+156,Tin,K,Greg Zuerlein,Dallas Cowboys,2020
+4,Luke,RB,Alvin Kamara,New Orleans Saints,2020
+6,Mark,WR,Michael Thomas,New Orleans Saints,2020
+107,Al,WR,Emmanuel Sanders,New Orleans Saints,2020
+113,Dan,RB,Latavius Murray,New Orleans Saints,2020
+139,Vinny,K,Wil Lutz,New Orleans Saints,2020
+140,Pickle,QB,Drew Brees,New Orleans Saints,2020
+5,Tin,RB,Dalvin Cook,Minnesota Vikings,2020
+23,PaulF,WR,Adam Thielen,Minnesota Vikings,2020
+114,Al,RB,Alexander Mattison,Minnesota Vikings,2020
+158,PaulF,WR,Justin Jefferson,Minnesota Vikings,2020
+7,Al,RB,Kenyan Drake,Arizona Cardinals,2020
+19,Vinny,WR,DeAndre Hopkins,Arizona Cardinals,2020
+40,Pickle,QB,Kyler Murray,Arizona Cardinals,2020
+108,Dan,WR,Christian Kirk,Arizona Cardinals,2020
+136,Tin,RB,Chase Edmonds,Arizona Cardinals,2020
+153,Dan,WR,Larry Fitzgerald,Arizona Cardinals,2020
+8,Dan,RB,Derrick Henry,Tennessee Titans,2020
+54,Al,WR,A.J. Brown,Tennessee Titans,2020
+9,Steve,RB,Austin Ekeler,Los Angeles Chargers,2020
+46,Mark,WR,Keenan Allen,Los Angeles Chargers,2020
+115,Mark,TE,Hunter Henry,Los Angeles Chargers,2020
+138,PaulF,WR,Mike Williams,Los Angeles Chargers,2020
+157,Luke,QB,Tyrod Taylor,Los Angeles Chargers,2020
+10,Josh,RB,Clyde Edwards-Helaire,Kansas City Chiefs,2020
+12,Steve,WR,Tyreek Hill,Kansas City Chiefs,2020
+22,Vinny,TE,Travis Kelce,Kansas City Chiefs,2020
+34,Al,QB,Patrick Mahomes,Kansas City Chiefs,2020
+35,Mark,RB,Le'Veon Bell,Kansas City Chiefs,2020
+145,Tin,WR,Sammy Watkins,Kansas City Chiefs,2020
+146,Mark,K,Harrison Butker,Kansas City Chiefs,2020
+148,Dan,WR,Mecole Hardman,Kansas City Chiefs,2020
+11,Josh,RB,Josh Jacobs,Las Vegas Raiders,2020
+75,Mark,TE,Darren Waller,Las Vegas Raiders,2020
+104,Luke,WR,Henry Ruggs III,Las Vegas Raiders,2020
+13,Dan,RB,Aaron Jones,Green Bay Packers,2020
+21,Pickle,WR,Davante Adams,Green Bay Packers,2020
+112,Steve,QB,Aaron Rodgers,Green Bay Packers,2020
+14,Al,RB,Joe Mixon,Cincinnati Bengals,2020
+57,Luke,WR,Tyler Boyd,Cincinnati Bengals,2020
+68,Dan,WR,A.J. Green,Cincinnati Bengals,2020
+118,PaulF,QB,Joe Burrow,Cincinnati Bengals,2020
+15,Mark,RB,Miles Sanders,Philadelphia Eagles,2020
+49,Steve,TE,Zach Ertz,Philadelphia Eagles,2020
+90,Josh,RB,Jordan Howard,Philadelphia Eagles,2020
+121,Pickle,RB,Boston Scott,Philadelphia Eagles,2020
+137,Luke,WR,Jalen Reagor,Philadelphia Eagles,2020
+152,Steve,WR,Alshon Jeffery,Philadelphia Eagles,2020
+169,Steve,D/ST,Eagles D/ST,Philadelphia Eagles,2020
+170,Josh,K,Jake Elliott,Philadelphia Eagles,2020
+16,Tin,RB,Nick Chubb,Cleveland Browns,2020
+47,Al,WR,Odell Beckham Jr.,Cleveland Browns,2020
+55,Mark,WR,Jarvis Landry,Cleveland Browns,2020
+59,Vinny,RB,Kareem Hunt,Cleveland Browns,2020
+132,Steve,TE,Austin Hooper,Cleveland Browns,2020
+159,Vinny,QB,Baker Mayfield,Cleveland Browns,2020
+17,Luke,WR,Julio Jones,Atlanta Falcons,2020
+30,Josh,WR,Calvin Ridley,Atlanta Falcons,2020
+45,Tin,RB,Todd Gurley II,Atlanta Falcons,2020
+95,Mark,QB,Matt Ryan,Atlanta Falcons,2020
+127,Al,TE,Hayden Hurst,Atlanta Falcons,2020
+163,PaulF,K,Younghoe Koo,Atlanta Falcons,2020
+18,PaulF,WR,Chris Godwin,Tampa Bay Buccaneers,2020
+24,Luke,WR,Mike Evans,Tampa Bay Buccaneers,2020
+72,Steve,RB,Leonard Fournette,Tampa Bay Buccaneers,2020
+88,Dan,RB,Ronald Jones II,Tampa Bay Buccaneers,2020
+89,Steve,TE,Rob Gronkowski,Tampa Bay Buccaneers,2020
+103,PaulF,QB,Tom Brady,Tampa Bay Buccaneers,2020
+20,Pickle,RB,Chris Carson,Seattle Seahawks,2020
+37,Luke,WR,Tyler Lockett,Seattle Seahawks,2020
+63,PaulF,WR,DK Metcalf,Seattle Seahawks,2020
+64,Luke,QB,Russell Wilson,Seattle Seahawks,2020
+25,Tin,WR,Kenny Golladay,Detroit Lions,2020
+53,Dan,RB,D'Andre Swift,Detroit Lions,2020
+78,PaulF,WR,Marvin Jones Jr.,Detroit Lions,2020
+81,Pickle,RB,Kerryon Johnson,Detroit Lions,2020
+116,Tin,TE,T.J. Hockenson,Detroit Lions,2020
+154,Al,K,Matt Prater,Detroit Lions,2020
+165,Tin,D/ST,Lions D/ST,Detroit Lions,2020
+26,Mark,WR,JuJu Smith-Schuster,Pittsburgh Steelers,2020
+38,PaulF,RB,James Conner,Pittsburgh Steelers,2020
+86,Mark,D/ST,Steelers D/ST,Pittsburgh Steelers,2020
+98,PaulF,WR,Diontae Johnson,Pittsburgh Steelers,2020
+142,Vinny,TE,Eric Ebron,Pittsburgh Steelers,2020
+155,Mark,QB,Ben Roethlisberger,Pittsburgh Steelers,2020
+164,Luke,K,Chris Boswell,Pittsburgh Steelers,2020
+28,Dan,TE,George Kittle,San Francisco 49ers,2020
+79,Vinny,RB,Raheem Mostert,San Francisco 49ers,2020
+91,Josh,WR,Deebo Samuel,San Francisco 49ers,2020
+109,Steve,RB,Tevin Coleman,San Francisco 49ers,2020
+134,Al,D/ST,49ers D/ST,San Francisco 49ers,2020
+29,Steve,QB,Lamar Jackson,Baltimore Ravens,2020
+43,PaulF,TE,Mark Andrews,Baltimore Ravens,2020
+61,Pickle,WR,Marquise Brown,Baltimore Ravens,2020
+77,Luke,RB,J.K. Dobbins,Baltimore Ravens,2020
+129,Steve,K,Justin Tucker,Baltimore Ravens,2020
+143,PaulF,D/ST,Ravens D/ST,Baltimore Ravens,2020
+31,Josh,WR,Cooper Kupp,Los Angeles Rams,2020
+36,Tin,WR,Robert Woods,Los Angeles Rams,2020
+44,Luke,RB,Cam Akers,Los Angeles Rams,2020
+87,Al,TE,Tyler Higbee,Los Angeles Rams,2020
+93,Dan,QB,Matthew Stafford,Los Angeles Rams,2020
+147,Al,RB,Darrell Henderson Jr.,Los Angeles Rams,2020
+161,Pickle,D/ST,Rams D/ST,Los Angeles Rams,2020
+32,Steve,WR,Allen Robinson II,Chicago Bears,2020
+69,Steve,RB,Tarik Cohen,Chicago Bears,2020
+74,Al,RB,David Montgomery,Chicago Bears,2020
+135,Mark,WR,Anthony Miller,Chicago Bears,2020
+149,Steve,D/ST,Bears D/ST,Chicago Bears,2020
+39,Vinny,RB,David Johnson,Houston Texans,2020
+62,Vinny,QB,Deshaun Watson,Houston Texans,2020
+67,Al,WR,Will Fuller V,Houston Texans,2020
+76,Tin,WR,Brandin Cooks,Houston Texans,2020
+41,Pickle,RB,Devin Singletary,Buffalo Bills,2020
+60,Pickle,WR,Stefon Diggs,Buffalo Bills,2020
+83,PaulF,RB,Zack Moss,Buffalo Bills,2020
+92,Steve,WR,John Brown,Buffalo Bills,2020
+96,Tin,QB,Josh Allen,Buffalo Bills,2020
+133,Dan,D/ST,Bills D/ST,Buffalo Bills,2020
+42,Vinny,WR,Courtland Sutton,Denver Broncos,2020
+51,Josh,RB,Melvin Gordon III,Denver Broncos,2020
+101,Pickle,WR,Jerry Jeudy,Denver Broncos,2020
+102,Vinny,RB,Phillip Lindsay,Denver Broncos,2020
+110,Josh,TE,Noah Fant,Denver Broncos,2020
+162,Vinny,D/ST,Broncos D/ST,Denver Broncos,2020
+48,Dan,WR,T.Y. Hilton,Indianapolis Colts,2020
+50,Josh,RB,Jonathan Taylor,Indianapolis Colts,2020
+117,Luke,RB,Marlon Mack,Indianapolis Colts,2020
+119,Vinny,QB,Carson Wentz,Indianapolis Colts,2020
+151,Josh,D/ST,Colts D/ST,Indianapolis Colts,2020
+160,Pickle,K,Rodrigo Blankenship,Indianapolis Colts,2020
+166,Mark,WR,Parris Campbell,Indianapolis Colts,2020
+52,Steve,WR,DJ Chark Jr.,Jacksonville Jaguars,2020
+125,Tin,RB,Chris Thompson,Jacksonville Jaguars,2020
+56,Tin,WR,Terry McLaurin,Washington ,2020
+58,PaulF,RB,Antonio Gibson,Washington ,2020
+65,Tin,WR,DeVante Parker,Miami Dolphins,2020
+97,Luke,RB,Matt Breida,Miami Dolphins,2020
+111,Josh,WR,Preston Williams,Miami Dolphins,2020
+141,Pickle,TE,Mike Gesicki,Miami Dolphins,2020
+66,Mark,RB,Mark Ingram II, FA,2020
+85,Tin,TE,Jared Cook, FA,2020
+99,Vinny,WR,Golden Tate, FA,2020
+106,Mark,WR,DeSean Jackson, FA,2020
+120,Pickle,RB,Duke Johnson, FA,2020
+168,Dan,K,Zane Gonzalez, FA,2020
+73,Dan,WR,Julian Edelman,New England Patriots,2020
+84,Luke,RB,James White,New England Patriots,2020
+126,Mark,RB,Sony Michel,New England Patriots,2020
+128,Dan,QB,Cam Newton,New England Patriots,2020
+131,Josh,WR,N'Keal Harry,New England Patriots,2020
+144,Luke,D/ST,Patriots D/ST,New England Patriots,2020
+94,Al,WR,Jamison Crowder,New York Jets,2020
+124,Luke,TE,Chris Herndon,New York Jets,2020
+150,Josh,WR,Breshad Perriman,New York Jets,2020
+1,Mark,RB,Christian McCaffrey,Carolina Panthers,2021
+47,PaulF,WR,DJ Moore,Carolina Panthers,2021
+59,Vinny,WR,Robby Anderson,Carolina Panthers,2021
+2,Vinny,RB,Alvin Kamara,New Orleans Saints,2021
+70,Pickle,WR,Marquez Callaway,New Orleans Saints,2021
+89,Tin,WR,Michael Thomas,New Orleans Saints,2021
+113,Dan,RB,Mark Ingram II,New Orleans Saints,2021
+132,Tin,QB,Jameis Winston,New Orleans Saints,2021
+3,Luke,RB,Dalvin Cook,Minnesota Vikings,2021
+27,PaulF,WR,Justin Jefferson,Minnesota Vikings,2021
+42,Vinny,WR,Adam Thielen,Minnesota Vikings,2021
+138,Luke,RB,Alexander Mattison,Minnesota Vikings,2021
+4,Steve,RB,Derrick Henry,Tennessee Titans,2021
+25,Josh,WR,A.J. Brown,Tennessee Titans,2021
+43,Luke,WR,Julio Jones,Tennessee Titans,2021
+105,Josh,QB,Ryan Tannehill,Tennessee Titans,2021
+5,Josh,RB,Ezekiel Elliott,Dallas Cowboys,2021
+32,Tin,WR,Amari Cooper,Dallas Cowboys,2021
+33,Dan,WR,CeeDee Lamb,Dallas Cowboys,2021
+49,Tin,QB,Dak Prescott,Dallas Cowboys,2021
+115,Al,WR,Michael Gallup,Dallas Cowboys,2021
+6,Al,WR,Davante Adams,Green Bay Packers,2021
+7,PaulF,RB,Aaron Jones,Green Bay Packers,2021
+74,PaulF,QB,Aaron Rodgers,Green Bay Packers,2021
+98,Luke,TE,Robert Tonyan,Green Bay Packers,2021
+107,PaulF,RB,AJ Dillon,Green Bay Packers,2021
+8,Dan,WR,Tyreek Hill,Kansas City Chiefs,2021
+12,Tin,TE,Travis Kelce,Kansas City Chiefs,2021
+29,Tin,RB,Clyde Edwards-Helaire,Kansas City Chiefs,2021
+37,Steve,QB,Patrick Mahomes,Kansas City Chiefs,2021
+137,Steve,K,Harrison Butker,Kansas City Chiefs,2021
+9,Tin,RB,Jonathan Taylor,Indianapolis Colts,2021
+92,Tin,WR,Michael Pittman Jr.,Indianapolis Colts,2021
+143,Luke,K,Rodrigo Blankenship,Indianapolis Colts,2021
+10,Pickle,RB,Najee Harris,Pittsburgh Steelers,2021
+41,Mark,WR,Diontae Johnson,Pittsburgh Steelers,2021
+67,PaulF,WR,Chase Claypool,Pittsburgh Steelers,2021
+75,Al,WR,JuJu Smith-Schuster,Pittsburgh Steelers,2021
+128,Dan,D/ST,Steelers D/ST,Pittsburgh Steelers,2021
+11,Pickle,RB,Antonio Gibson,Washington Commanders,2021
+30,Pickle,WR,Terry McLaurin,Washington Commanders,2021
+71,Pickle,TE,Logan Thomas,Washington Commanders,2021
+101,Mark,WR,Curtis Samuel,Washington Commanders,2021
+130,Pickle,D/ST,Commanders D/ST,Washington Commanders,2021
+13,Dan,RB,Saquon Barkley,New York Giants,2021
+53,Dan,WR,Kenny Golladay,New York Giants,2021
+145,Josh,K,Graham Gano,New York Giants,2021
+14,PaulF,RB,Austin Ekeler,Los Angeles Chargers,2021
+26,Al,WR,Keenan Allen,Los Angeles Chargers,2021
+82,Vinny,QB,Justin Herbert,Los Angeles Chargers,2021
+108,Dan,WR,Mike Williams,Los Angeles Chargers,2021
+15,Al,RB,Nick Chubb,Cleveland Browns,2021
+56,Josh,RB,Kareem Hunt,Cleveland Browns,2021
+118,Luke,WR,Jarvis Landry,Cleveland Browns,2021
+142,Vinny,D/ST,Browns D/ST,Cleveland Browns,2021
+16,Josh,WR,Calvin Ridley,Atlanta Falcons,2021
+51,Pickle,RB,Mike Davis,Atlanta Falcons,2021
+57,Steve,TE,Kyle Pitts,Atlanta Falcons,2021
+91,Pickle,WR,Russell Gage,Atlanta Falcons,2021
+129,Tin,K,Younghoe Koo,Atlanta Falcons,2021
+17,Steve,WR,DK Metcalf,Seattle Seahawks,2021
+34,PaulF,RB,Chris Carson,Seattle Seahawks,2021
+46,Al,WR,Tyler Lockett,Seattle Seahawks,2021
+55,Al,QB,Russell Wilson,Seattle Seahawks,2021
+146,Al,K,Jason Myers,Seattle Seahawks,2021
+18,Luke,RB,Joe Mixon,Cincinnati Bengals,2021
+73,Dan,WR,Tee Higgins,Cincinnati Bengals,2021
+76,Josh,WR,Ja'Marr Chase,Cincinnati Bengals,2021
+106,Al,WR,Tyler Boyd,Cincinnati Bengals,2021
+125,Josh,QB,Joe Burrow,Cincinnati Bengals,2021
+150,Pickle,K,Evan McPherson,Cincinnati Bengals,2021
+19,Vinny,WR,Stefon Diggs,Buffalo Bills,2021
+40,Mark,QB,Josh Allen,Buffalo Bills,2021
+117,Steve,RB,Devin Singletary,Buffalo Bills,2021
+122,Vinny,RB,Zack Moss,Buffalo Bills,2021
+140,Mark,D/ST,Bills D/ST,Buffalo Bills,2021
+20,Mark,WR,DeAndre Hopkins,Arizona Cardinals,2021
+31,Pickle,QB,Kyler Murray,Arizona Cardinals,2021
+58,Luke,RB,Chase Edmonds,Arizona Cardinals,2021
+95,Al,RB,James Conner,Arizona Cardinals,2021
+148,Dan,K,Matt Prater,Arizona Cardinals,2021
+21,Mark,WR,Allen Robinson II,Chicago Bears,2021
+24,Steve,RB,David Montgomery,Chicago Bears,2021
+134,PaulF,WR,Darnell Mooney,Chicago Bears,2021
+22,Vinny,RB,James Robinson,Jacksonville Jaguars,2021
+77,Steve,WR,Laviska Shenault Jr.,Jacksonville Jaguars,2021
+97,Steve,WR,DJ Chark Jr.,Jacksonville Jaguars,2021
+121,Mark,WR,Marvin Jones Jr.,Jacksonville Jaguars,2021
+23,Luke,TE,Darren Waller,Las Vegas Raiders,2021
+44,Steve,RB,Josh Jacobs,Las Vegas Raiders,2021
+104,Steve,RB,Kenyan Drake,Las Vegas Raiders,2021
+28,Dan,TE,George Kittle,San Francisco 49ers,2021
+52,Tin,WR,Brandon Aiyuk,San Francisco 49ers,2021
+69,Tin,RB,Raheem Mostert,San Francisco 49ers,2021
+90,Pickle,RB,Trey Sermon,San Francisco 49ers,2021
+96,Josh,WR,Deebo Samuel,San Francisco 49ers,2021
+114,PaulF,QB,Trey Lance,San Francisco 49ers,2021
+135,Al,D/ST,49ers D/ST,San Francisco 49ers,2021
+35,Al,RB,D'Andre Swift,Detroit Lions,2021
+54,PaulF,TE,T.J. Hockenson,Detroit Lions,2021
+116,Josh,RB,Jamaal Williams,Detroit Lions,2021
+36,Josh,RB,Miles Sanders,Philadelphia Eagles,2021
+83,Luke,WR,DeVonta Smith,Philadelphia Eagles,2021
+100,Mark,TE,Dallas Goedert,Philadelphia Eagles,2021
+103,Luke,QB,Jalen Hurts,Philadelphia Eagles,2021
+38,Luke,WR,Cooper Kupp,Los Angeles Rams,2021
+39,Vinny,WR,Robert Woods,Los Angeles Rams,2021
+61,Mark,RB,Darrell Henderson Jr.,Los Angeles Rams,2021
+80,Mark,WR,Odell Beckham Jr.,Los Angeles Rams,2021
+86,Al,RB,Sony Michel,Los Angeles Rams,2021
+119,Vinny,QB,Matthew Stafford,Los Angeles Rams,2021
+124,Steve,TE,Tyler Higbee,Los Angeles Rams,2021
+136,Josh,D/ST,Rams D/ST,Los Angeles Rams,2021
+45,Josh,WR,Mike Evans,Tampa Bay Buccaneers,2021
+64,Steve,WR,Chris Godwin,Tampa Bay Buccaneers,2021
+88,Dan,RB,Ronald Jones II,Tampa Bay Buccaneers,2021
+99,Vinny,RB,Leonard Fournette,Tampa Bay Buccaneers,2021
+123,Luke,D/ST,Buccaneers D/ST,Tampa Bay Buccaneers,2021
+133,Dan,QB,Tom Brady,Tampa Bay Buccaneers,2021
+48,Dan,RB,Gus Edwards,Baltimore Ravens,2021
+66,Al,TE,Mark Andrews,Baltimore Ravens,2021
+68,Dan,QB,Lamar Jackson,Baltimore Ravens,2021
+93,Dan,WR,Marquise Brown,Baltimore Ravens,2021
+127,PaulF,D/ST,Ravens D/ST,Baltimore Ravens,2021
+139,Vinny,K,Justin Tucker,Baltimore Ravens,2021
+50,Pickle,RB,Myles Gaskin,Miami Dolphins,2021
+79,Vinny,WR,William Fuller V,Miami Dolphins,2021
+84,Steve,WR,Jaylen Waddle,Miami Dolphins,2021
+110,Pickle,RB,Phillip Lindsay,Miami Dolphins,2021
+126,Al,TE,Mike Gesicki,Miami Dolphins,2021
+141,Mark,K,Jason Sanders,Miami Dolphins,2021
+60,Mark,WR,Brandin Cooks,Houston Texans,2021
+109,Tin,RB,David Johnson,Houston Texans,2021
+62,Vinny,RB,Javonte Williams,Denver Broncos,2021
+65,Josh,WR,Courtland Sutton,Denver Broncos,2021
+72,Tin,WR,Jerry Jeudy,Denver Broncos,2021
+81,Mark,RB,Melvin Gordon III,Denver Broncos,2021
+85,Josh,TE,Noah Fant,Denver Broncos,2021
+147,PaulF,K,Brandon McManus,Denver Broncos,2021
+149,Tin,D/ST,Broncos D/ST,Denver Broncos,2021
+63,Luke,RB,Damien Harris,New England Patriots,2021
+102,Vinny,TE,Jonnu Smith,New England Patriots,2021
+111,Pickle,RB,James White,New England Patriots,2021
+112,Tin,WR,Jakobi Meyers,New England Patriots,2021
+144,Steve,D/ST,Patriots D/ST,New England Patriots,2021
+78,Luke,WR,Antonio Brown, FA,2021
+94,PaulF,WR,Henry Ruggs III, FA,2021
+87,PaulF,WR,Corey Davis,New York Jets,2021
+120,Mark,RB,Michael Carter,New York Jets,2021
+131,Pickle,WR,Elijah Moore,New York Jets,2021
+1,Josh,RB,Jonathan Taylor,Indianapolis Colts,2022
+26,Mark,WR,Michael Pittman Jr.,Indianapolis Colts,2022
+118,Pickle,WR,Alec Pierce,Indianapolis Colts,2022
+134,Luke,D/ST,Colts D/ST,Indianapolis Colts,2022
+141,Josh,K,Matt Gay,Indianapolis Colts,2022
+2,Vinny,RB,Christian McCaffrey,San Francisco 49ers,2022
+11,Al,WR,Deebo Samuel,San Francisco 49ers,2022
+56,Tin,RB,Elijah Mitchell,San Francisco 49ers,2022
+59,Vinny,TE,George Kittle,San Francisco 49ers,2022
+96,Tin,WR,Brandon Aiyuk,San Francisco 49ers,2022
+109,PaulF,QB,Trey Lance,San Francisco 49ers,2022
+135,Mark,D/ST,49ers D/ST,San Francisco 49ers,2022
+3,Pickle,RB,Najee Harris,Pittsburgh Steelers,2022
+38,Pickle,WR,Diontae Johnson,Pittsburgh Steelers,2022
+127,Luke,WR,George Pickens,Pittsburgh Steelers,2022
+137,Dan,D/ST,Steelers D/ST,Pittsburgh Steelers,2022
+140,Josh,TE,Pat Freiermuth,Pittsburgh Steelers,2022
+4,Dan,WR,Cooper Kupp,Los Angeles Rams,2022
+24,Dan,RB,Cam Akers,Los Angeles Rams,2022
+54,Luke,WR,Allen Robinson II,Los Angeles Rams,2022
+97,Dan,QB,Matthew Stafford,Los Angeles Rams,2022
+5,Tin,RB,Austin Ekeler,Los Angeles Chargers,2022
+29,PaulF,WR,Keenan Allen,Los Angeles Chargers,2022
+41,Josh,WR,Mike Williams,Los Angeles Chargers,2022
+51,Al,QB,Justin Herbert,Los Angeles Chargers,2022
+6,Mark,RB,Derrick Henry,Tennessee Titans,2022
+113,Steve,WR,Treylon Burks,Tennessee Titans,2022
+7,Luke,WR,Justin Jefferson,Minnesota Vikings,2022
+8,Steve,RB,Dalvin Cook,Minnesota Vikings,2022
+77,Dan,TE,T.J. Hockenson,Minnesota Vikings,2022
+92,PaulF,RB,Alexander Mattison,Minnesota Vikings,2022
+9,PaulF,WR,Ja'Marr Chase,Cincinnati Bengals,2022
+10,Al,RB,Joe Mixon,Cincinnati Bengals,2022
+30,Al,WR,Tee Higgins,Cincinnati Bengals,2022
+86,Mark,QB,Joe Burrow,Cincinnati Bengals,2022
+119,Vinny,WR,Tyler Boyd,Cincinnati Bengals,2022
+133,Steve,K,Evan McPherson,Cincinnati Bengals,2022
+12,PaulF,RB,D'Andre Swift,Detroit Lions,2022
+39,Vinny,WR,Amon-Ra St. Brown,Detroit Lions,2022
+46,Mark,RB,David Montgomery,Detroit Lions,2022
+104,Dan,WR,DJ Chark,Detroit Lions,2022
+13,Steve,RB,Alvin Kamara,New Orleans Saints,2022
+65,Tin,WR,Michael Thomas,New Orleans Saints,2022
+106,Mark,WR,Chris Olave,New Orleans Saints,2022
+122,Vinny,QB,Derek Carr,New Orleans Saints,2022
+125,Tin,D/ST,Saints D/ST,New Orleans Saints,2022
+14,Luke,RB,Saquon Barkley,New York Giants,2022
+53,Steve,TE,Darren Waller,New York Giants,2022
+15,Mark,WR,Davante Adams,Las Vegas Raiders,2022
+44,Dan,RB,Josh Jacobs,Las Vegas Raiders,2022
+90,Al,WR,Hunter Renfrow,Las Vegas Raiders,2022
+146,Mark,K,Daniel Carlson,Las Vegas Raiders,2022
+16,Tin,TE,Travis Kelce,Kansas City Chiefs,2022
+42,Vinny,QB,Patrick Mahomes,Kansas City Chiefs,2022
+64,Dan,RB,Clyde Edwards-Helaire,Kansas City Chiefs,2022
+98,Pickle,WR,Kadarius Toney,Kansas City Chiefs,2022
+108,Steve,WR,Marquez Valdes-Scantling,Kansas City Chiefs,2022
+120,Josh,WR,Skyy Moore,Kansas City Chiefs,2022
+139,Vinny,K,Harrison Butker,Kansas City Chiefs,2022
+17,Dan,WR,Tyreek Hill,Miami Dolphins,2022
+35,Mark,WR,Jaylen Waddle,Miami Dolphins,2022
+93,Steve,RB,Raheem Mostert,Miami Dolphins,2022
+142,Vinny,D/ST,Dolphins D/ST,Miami Dolphins,2022
+18,Pickle,WR,Stefon Diggs,Buffalo Bills,2022
+36,Tin,QB,Josh Allen,Buffalo Bills,2022
+55,Mark,WR,Gabe Davis,Buffalo Bills,2022
+99,Vinny,RB,Damien Harris,Buffalo Bills,2022
+103,Pickle,TE,Dawson Knox,Buffalo Bills,2022
+107,Luke,RB,Nyheim Hines,Buffalo Bills,2022
+121,Josh,D/ST,Bills D/ST,Buffalo Bills,2022
+144,Dan,K,Tyler Bass,Buffalo Bills,2022
+19,Vinny,RB,Javonte Williams,Denver Broncos,2022
+45,Tin,WR,Courtland Sutton,Denver Broncos,2022
+52,PaulF,WR,Jerry Jeudy,Denver Broncos,2022
+87,Luke,QB,Russell Wilson,Denver Broncos,2022
+147,Luke,K,Brandon McManus,Denver Broncos,2022
+20,Josh,RB,Leonard Fournette, FA,2022
+34,Luke,RB,Ezekiel Elliott, FA,2022
+62,Vinny,WR,Adam Thielen, FA,2022
+95,Mark,WR,Robert Woods, FA,2022
+114,Luke,RB,Darrell Henderson Jr., FA,2022
+124,Dan,RB,Melvin Gordon III, FA,2022
+149,PaulF,K,Rodrigo Blankenship, FA,2022
+21,Josh,WR,CeeDee Lamb,Dallas Cowboys,2022
+49,PaulF,WR,Brandin Cooks,Dallas Cowboys,2022
+81,Josh,RB,Tony Pollard,Dallas Cowboys,2022
+110,Al,QB,Dak Prescott,Dallas Cowboys,2022
+116,Tin,WR,Michael Gallup,Dallas Cowboys,2022
+22,Vinny,RB,Aaron Jones,Green Bay Packers,2022
+76,Tin,RB,AJ Dillon,Green Bay Packers,2022
+100,Josh,QB,Aaron Rodgers,Green Bay Packers,2022
+128,Steve,WR,Romeo Doubs,Green Bay Packers,2022
+131,Al,D/ST,Packers D/ST,Green Bay Packers,2022
+23,Pickle,RB,James Conner,Arizona Cardinals,2022
+47,Luke,WR,Marquise Brown,Arizona Cardinals,2022
+58,Pickle,QB,Kyler Murray,Arizona Cardinals,2022
+88,Steve,WR,DeAndre Hopkins,Arizona Cardinals,2022
+101,Josh,TE,Zach Ertz,Arizona Cardinals,2022
+143,Pickle,K,Matt Prater,Arizona Cardinals,2022
+25,Tin,WR,Mike Evans,Tampa Bay Buccaneers,2022
+61,Josh,WR,Chris Godwin,Tampa Bay Buccaneers,2022
+85,Tin,RB,Chase Edmonds,Tampa Bay Buccaneers,2022
+111,Al,QB,Tom Brady,Tampa Bay Buccaneers,2022
+132,PaulF,D/ST,Buccaneers D/ST,Tampa Bay Buccaneers,2022
+27,Luke,TE,Mark Andrews,Baltimore Ravens,2022
+60,Josh,RB,J.K. Dobbins,Baltimore Ravens,2022
+68,Steve,QB,Lamar Jackson,Baltimore Ravens,2022
+69,PaulF,WR,Rashod Bateman,Baltimore Ravens,2022
+136,Tin,K,Justin Tucker,Baltimore Ravens,2022
+138,Pickle,D/ST,Ravens D/ST,Baltimore Ravens,2022
+145,Tin,WR,Sammy Watkins,Baltimore Ravens,2022
+28,Steve,RB,Nick Chubb,Cleveland Browns,2022
+79,Vinny,RB,Kareem Hunt,Cleveland Browns,2022
+84,Dan,WR,Amari Cooper,Cleveland Browns,2022
+31,Al,WR,DJ Moore,Chicago Bears,2022
+57,Dan,WR,Darnell Mooney,Chicago Bears,2022
+102,Vinny,WR,Chase Claypool,Chicago Bears,2022
+115,Mark,TE,Cole Kmet,Chicago Bears,2022
+129,PaulF,RB,Khalil Herbert,Chicago Bears,2022
+32,PaulF,TE,Kyle Pitts,Atlanta Falcons,2022
+78,Pickle,RB,Cordarrelle Patterson,Atlanta Falcons,2022
+80,Josh,WR,Drake London,Atlanta Falcons,2022
+33,Steve,WR,A.J. Brown,Philadelphia Eagles,2022
+72,PaulF,QB,Jalen Hurts,Philadelphia Eagles,2022
+82,Vinny,WR,DeVonta Smith,Philadelphia Eagles,2022
+83,Pickle,RB,Rashaad Penny,Philadelphia Eagles,2022
+94,Luke,TE,Dallas Goedert,Philadelphia Eagles,2022
+112,PaulF,RB,Kenneth Gainwell,Philadelphia Eagles,2022
+37,Dan,WR,Terry McLaurin,Washington Commanders,2022
+74,Luke,RB,Antonio Gibson,Washington Commanders,2022
+123,Pickle,WR,Jahan Dotson,Washington Commanders,2022
+40,Josh,RB,Travis Etienne Jr.,Jacksonville Jaguars,2022
+75,Mark,WR,Christian Kirk,Jacksonville Jaguars,2022
+43,Pickle,RB,Dameon Pierce,Houston Texans,2022
+70,Al,RB,Devin Singletary,Houston Texans,2022
+71,Al,TE,Dalton Schultz,Houston Texans,2022
+48,Steve,WR,DK Metcalf,Seattle Seahawks,2022
+91,Al,WR,Tyler Lockett,Seattle Seahawks,2022
+117,Dan,RB,Kenneth Walker III,Seattle Seahawks,2022
+50,Al,RB,Breece Hall,New York Jets,2022
+67,Luke,WR,Elijah Moore,New York Jets,2022
+73,Steve,WR,Allen Lazard,New York Jets,2022
+126,Mark,WR,Garrett Wilson,New York Jets,2022
+130,Al,RB,Michael Carter,New York Jets,2022
+63,Pickle,WR,JuJu Smith-Schuster,New England Patriots,2022
+89,PaulF,RB,Rhamondre Stevenson,New England Patriots,2022
+105,Tin,RB,James Robinson,New England Patriots,2022
+150,Al,K,Nick Folk,New England Patriots,2022
+66,Mark,RB,Miles Sanders,Carolina Panthers,2022
+148,Steve,D/ST,Panthers D/ST,Carolina Panthers,2022
